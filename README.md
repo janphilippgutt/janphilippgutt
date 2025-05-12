@@ -28,7 +28,7 @@ Some of the things you'll find in my repos:
 - 🧰 Python scripts for cost monitoring, resource tagging, and cleanup  
 - 🧪 Experiments with containers, serverless, and event-driven architectures
 
-> 💡 I believe in learning by building — and documenting along the way.
+💡 I believe in learning by building — and documenting along the way.
 
 ---
 
