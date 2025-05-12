@@ -35,8 +35,7 @@ Some of the things you'll find in my repos:
 📫 **Let’s connect:**  
 [LinkedIn](https://www.linkedin.com/in/jan-philipp-gutt) 
 
-🔭 **More to discover:** 
-
-[My secondary GitHub for more exploratory and older learning projects](https://github.com/TechWith5000)
+🔭 **More to discover:**  
+[My secondary GitHub for more exploratory and older learning projects](https://github.com/TechWith5000) 
 
 ---
